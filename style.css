@@ -1,0 +1,187 @@
+.topbar
+{
+
+	background-color: #183883;
+	color: white;
+	padding: 10px;
+}
+.topbar-right
+{
+	text-align: right;
+}
+/* topbar ended */
+
+/* manubar started */
+.menubar
+{
+
+	background-color: #F5F5FF;
+}
+.menubar-right
+{
+	text-align: right;
+	padding-top: 35px;
+}	
+.banner{
+	background-image: url("bg.jpg");
+	height: 420px;
+	background-size: cover;
+}
+.person
+{
+	width: 77%;
+	height: 420px;
+	padding-bottom: 30px;
+
+}
+.content{
+	padding-left: 70px;
+	padding-top: 90px;
+	color: white;
+}
+.box
+{
+	text-align: center;
+	border: 1px solid gray;
+	box-shadow: 6px 8px 7px gray;
+	padding: 5px;
+	height: 450px;
+	border-radius:15px;
+	width: 105%;
+}
+.box p{
+	padding-top: 80px;
+}
+.padd-box{
+	padding: 30px;
+}
+.program-contant
+{
+	text-align: center;
+	padding-top: 10px;
+}
+.rising-content
+{
+	text-align: center;
+	padding-top: 20px;
+}
+.padd
+{
+	padding:1px;
+}
+.pad
+{
+	padding: 1px;
+}
+.boxx
+{
+	text-align: center;
+	border: 0px solid gray;	
+}
+.boxes
+{
+	text-align: center;
+	border: 0px solid gray;	
+}
+.rising-star{
+	background-color: #F5F5FF;
+}
+.holder
+{
+	text-align: center;
+}
+.benefits-content{
+	text-align: center;
+	padding-top: 50px;
+}
+.bar span{
+	padding: 10px;
+}
+.child{
+	border-bottom: 4px solid #FF4500;
+}
+.bar{
+	border-bottom: 1px solid gray;
+	padding: 10px;
+}
+.kid
+{
+	padding-top: 30px;
+}
+.kid p
+{
+   padding-top: 10px;
+}
+.videos{
+     
+    border-radius: 15px;
+	padding-top: 40px;
+}
+.pepmind
+{
+	background-image: url("bg.jpg");
+	background-size: cover;
+	height: 600px;
+}
+.about p
+{
+	padding-left: 30px;
+}
+.about
+{
+	color: white;
+	padding-top: 100px;
+}
+.shipra
+{
+	text-align: right;
+   padding-right: 500px;
+   padding-top: 90px;
+}
+.once
+{   
+	text-align: left;
+    padding-left:50px;
+    padding-bottom:20px;
+	color: white;
+}
+.faos
+{
+	padding-left: 60px;
+}
+.send
+{
+	background-color:#3B5780;
+	height: 550px;
+	width: 550px;
+	padding-left: 40px;
+	padding-top: 50px;
+	color: white;
+}
+.padding 
+{
+	padding: 30px;
+
+}
+.end
+{
+  text-align:left;
+  background-color: #F5F5FF;
+  height: 500px;
+}
+.footer{
+	padding: 0px 10px 0px 10px;
+}
+.footer p{
+	padding: 10px;
+	border-bottom: 1px solid gray;
+
+}
+
+.break{
+	padding: 0px 10px 0px 10px;
+}
+.break p{
+	border-bottom: 1px solid gray;
+}
+
